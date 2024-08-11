@@ -21,3 +21,8 @@ Mellado-Artigas, R., Borrat, X., Ferreyro, B. L., Yarnell, C., Hao, S., Wanis, K
 
 ## Compatiple data version
 - MIMIC_IV v2.2 (does not support the current version: v3.0)
+
+## Usage note
+- Create your own BigQuery project and make proper changes to the file (mainly project and dataset names)
+- Run the .sql code one by one. (01,02,...)
+- Option: load the data into R using the "Export_data.R" file. 
