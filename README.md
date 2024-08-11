@@ -1,6 +1,6 @@
 # Background
 
-This code repo is a summarization rather than innovation. It simply contained too many people's wisdom and effort to be listed here. The main contributers are lab memebers from LCP MIT and authors from these two publications below: 
+This code repo is a summarization rather than an innovation. It simply contained too many people's wisdom and effort to be listed here. The main contributors are lab members from LCP MIT and authors from the two publications below: 
 
 Wanis, K. N., Madenci, A. L., Hao, S., Moukheiber, M., Moukheiber, L., Moukheiber, D., ... & Celi, L. A. (2023). Emulating target trials comparing early and delayed intubation strategies. Chest, 164(4), 885-891.
 
