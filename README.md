@@ -13,6 +13,11 @@ Mellado-Artigas, R., Borrat, X., Ferreyro, B. L., Yarnell, C., Hao, S., Wanis, K
 
 # Technical Details
 
-## Requirement:  PhysioNet.org credential, DUA MIMIC-IV, Google BigQuery Access for MIMIC-IV. 
+## Requirement: 
+- PhysioNet.org credential
+- DUA MIMIC-IV
+- Google BigQuery Access for MIMIC-IV
+- Some experience with Google BigQuery
 
-## Compatiple data version: MIMIC_IV v2.2 (does not support the current version: v3.0)
+## Compatiple data version
+- MIMIC_IV v2.2 (does not support the current version: v3.0)
